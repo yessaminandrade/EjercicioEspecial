@@ -1,5 +1,6 @@
 # Ejercicio Evaluado Especial
 
-Ejercicio Evaluado Especial
-
-Favor de leer los pasos a seguir en el archivo Instrucciones.md
+* Cohort: CH53
+* 30 de Abril del 2025
+* 9:52am
+* Yessamin Andrade Salazar
